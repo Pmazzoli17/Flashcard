@@ -1,0 +1,22 @@
+{
+  "name": "flashcard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pmazzoli17/Flashcard.git"
+  },
+  "author": "peter_mazzoli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pmazzoli17/Flashcard/issues"
+  },
+  "homepage": "https://github.com/Pmazzoli17/Flashcard#readme",
+  "dependencies": {
+    "inquirer": "^3.0.1"
+  }
+}

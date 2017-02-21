@@ -1,0 +1,20 @@
+[{
+	"text": "... is the capital city of Spain",
+	"cloze": "Madrid"
+},
+{
+	"text": "... is the name of Batman’s butler?",
+	"cloze": "Alfred"
+},
+{
+	"text": "During the month of ... is when the Munich Oktoberfest beer festival is held.",
+	"cloze": "September"
+},
+{
+	"text": "The ... are an American professional baseball team based in Chicago, Illinois.",
+	"cloze": "Cubs"
+},
+{
+	"text": "... is the name of the city where SpongeBob SquarePants lives.",
+	"cloze": "Bikini Bottom"
+}]
